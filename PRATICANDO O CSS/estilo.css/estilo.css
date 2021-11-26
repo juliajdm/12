@@ -1,0 +1,20 @@
+p {
+    font-family: Cambria ;
+}
+body {
+    background-color: pink;
+}
+h1 {
+    color: beige;
+    padding: 60px;
+}
+.xleftcol {
+    float: left;
+    width: 33%;
+    background:pink;
+ }
+ .xmiddlecol {
+    float: left;
+    width: 34%;
+    background:beige;
+ }
